@@ -7,4 +7,4 @@ Yes, I had good info on here but somehow since I did not open vim with sudo, I c
 
 
 ### Am I in trouble?
-Probably. I cannot give my user accoubt su status. I have tried but it sems this computer is too dumb. Why can't it read my mind? I feel lie a woman right now.
+Probably. I cannot give my user account su status. I have tried but it seems this computer is too dumb. Why can't it read my mind? I feel like a woman right now.
